@@ -14,6 +14,7 @@ To run this application use the following commands
 ```
 ## Screenshot
 
+<img width="1489" alt="Screenshot 2023-09-03 at 4 13 12 PM" src="https://github.com/omarx/Note-Taker/assets/4944767/71884f7d-ccd7-454a-8d1e-b1f722ee96c2">
 
 
 ## Questions
